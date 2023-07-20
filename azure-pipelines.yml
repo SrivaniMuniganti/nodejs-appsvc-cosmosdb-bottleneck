@@ -11,7 +11,7 @@ pool:
 
 variables:
   webAppName: 'Sample Podcast App'
-  serviceConnection: 'GitHub connection 3'
+  serviceConnection: 'SampleLoadTest_MSV'
   azureSubscriptionId: '7a2858ab-023e-4e08-b1ad-d879923e3581'
   loadTestResource: 'Podcast Load Test'
   loadTestResourceGroup: 'app-rg'
